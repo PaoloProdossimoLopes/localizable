@@ -1,0 +1,28 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "formatWithString" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The name of package is %@"
+          }
+        }
+      }
+    },
+    "rawText" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "cb5d0116-2b27-4235-9dba-67695167a535"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

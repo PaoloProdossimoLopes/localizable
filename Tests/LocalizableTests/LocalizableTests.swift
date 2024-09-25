@@ -1,6 +1,7 @@
 import Testing
-@testable import Localizable
+import Localizable
 
-@Test func example() async throws {
-    // Write your test here and use APIs like `#expect(...)` to check expected conditions.
+@Test func example() {
+    #expect(TestLocalizable.rawText.value == "cb5d0116-2b27-4235-9dba-67695167a535")
+    #expect(TestLocalizable.formatWithString.value == "The name of package is Localizable")
 }
